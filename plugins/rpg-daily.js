@@ -1,7 +1,7 @@
 const rewards = {
   exp: 9999,
-  money: 4999,
-  potion: 5,
+  money: 1000,
+  potion: 3,
 }
 const cooldown = 86400000
 let handler = async (m,{ conn} ) => {
