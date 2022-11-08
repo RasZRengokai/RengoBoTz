@@ -39,10 +39,10 @@ function reward(user = {}) {
     let rewards = {
         reward: {
             money: 201,
-            exp: 301,
-            trash: 101,
+            exp: 261,
+            trash: 89,
             potion: 2,
-            rock: 2,
+            rock: 1,
             wood: 2,
             string: 2,
             common: 2 * (user.dog && (user.dog > 2 ? 2 : user.dog) * 1.2 || 1),
