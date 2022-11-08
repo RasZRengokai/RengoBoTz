@@ -42,7 +42,7 @@ function reward(user = {}) {
             exp: 261,
             trash: 89,
             potion: 2,
-            rock: 1,
+            rock: 0,
             wood: 2,
             string: 2,
             common: 2 * (user.dog && (user.dog > 2 ? 2 : user.dog) * 1.2 || 1),
