@@ -4,7 +4,7 @@ const items = {
             exp: 1000
         },
         potion: {
-            money: 350,
+            money: 1090,
         },
         trash: {
             money: 4,
