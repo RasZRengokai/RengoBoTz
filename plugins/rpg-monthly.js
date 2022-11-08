@@ -1,7 +1,7 @@
 const rewards = {
-    exp: 5000,
-    money: 4999,
-    potion: 10,
+    exp: 30000,
+    money: 8000,
+    potion: 7,
     mythic: 3,
     legendary: 1
 }
