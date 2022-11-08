@@ -39,13 +39,13 @@ export default handler
 function reward(user = {}) {
     let rewards = {
         reward: {
-            exp: 1000,
-            trash: 101,
-            string: 25,
-            rock: 30,
-            iron: 25,
-            diamond: 10,
-            emerald: 4,
+            exp: 648,
+            trash: 87,
+            string: 16,
+            rock: 12,
+            iron: 7,
+            diamond: 2,
+            emerald: 1,
             common: 2 * (user.dog && (user.dog > 2 ? 2 : user.dog) * 1.2 || 1),
             uncommon: [0, 0, 0, 1, 0].concat(
                 new Array(5 - (
