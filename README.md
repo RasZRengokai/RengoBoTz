@@ -21,6 +21,10 @@
 ## FOR REPLIT USER
 [![Run on Repl.it](https://repl.it/badge/github/RasZRengokai/RengoBoTz)](https://repl.it/github/RasZRengokai/RengoBoTz)
 
+## FOR RAILWAY USER 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%RasZRengokai%2FRengoBoTz
+
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
