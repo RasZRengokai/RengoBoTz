@@ -19,7 +19,7 @@
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github.com/RasZRengokai/RengoBoTz)](https://repl.it/github.com/RasZRengokai/RengoBoTz)
+[![Run on Repl.it](https://repl.it/badge/github/RasZRengokai/RengoBoTz)](https://repl.it/github/RasZRengokai/RengoBoTz)
 
 ## TERMUX USER
 ```bash
