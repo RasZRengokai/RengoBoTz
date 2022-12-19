@@ -18,6 +18,9 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
+## FOR REPLIT USER
+[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://repl.it/github/zeeone-ofc/Alphabot-Md)
+
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
